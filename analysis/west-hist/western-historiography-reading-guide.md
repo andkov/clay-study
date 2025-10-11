@@ -1,6 +1,8 @@
 # Western Historiography: A Thematic Reading Guide
 ## From Herodotus and Thucydides to Ibn Khaldun
 
+> **Companion Document:** For biographical details, portraits, and a timeline visualization of these historians' lives, see [Historian Biographies](./historian-biographies.md).
+
 ---
 
 ## Introduction: The Birth of History as a Genre

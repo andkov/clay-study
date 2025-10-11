@@ -2,9 +2,10 @@
 
 This folder contains a comprehensive reading guide through the evolution of Western historiography, from Herodotus and Thucydides to Ibn Khaldun.
 
-## Main Document
+## Main Documents
 
 - **western-historiography-reading-guide.md** - A structured, thematic reading guide through the foundational texts of Western historical thought
+- **historian-biographies.md** - Biographical guide with life details, portraits, and timeline visualization for all historians featured in the reading guide
 
 ## Overview
 
